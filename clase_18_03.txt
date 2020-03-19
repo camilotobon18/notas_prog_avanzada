@@ -1,0 +1,11 @@
+se debe validar cada uno de los botones, para saber que accion se desea realizar, esto en el controlador
+el objeto recibe tv recibe cada uno de los tipos que trae la funcion 
+for (tipovehi tv:tipoVehiDAO.listartv()
+
+hacer todo el crud para todo el proyecto
+
+solo subir lo de la carpeta JAVA y lo de la carpeta WEB
+
+el password esta quemado en el codigo
+si el usuario y el password es correcto nos lleva a una vista de  bienvenido, sino a una vista que dice NO SE PUEDE CONECTAR o nos deja en el mismo formulario
+
